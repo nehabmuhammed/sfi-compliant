@@ -1,0 +1,32 @@
+export const programmesData = [
+  {
+    id: 1,
+    date: '12',
+    month: 'ഒക്ടോ',
+    title: 'വിദ്യാർത്ഥി സംഗമം',
+    description: 'ക്യാമ്പസിലെ വിദ്യാർത്ഥികളുടെ കൂട്ടായ്മയും സംവാദവും',
+    venue: 'കോളേജ് ഓഡിറ്റോറിയം',
+    time: '10.30 AM',
+    image: '/images/programme-01.jpg',
+  },
+  {
+    id: 2,
+    date: '18',
+    month: 'ഒക്ടോ',
+    title: 'സാംസ്കാരിക പരിപാടി',
+    description: 'കോളേജ് ഗ്രൗണ്ട്',
+    venue: 'കോളേജ് ഗ്രൗണ്ട്',
+    time: '04.00 PM',
+    image: '/images/programme-01.jpg',
+  },
+  {
+    id: 3,
+    date: '25',
+    month: 'ഒക്ടോ',
+    title: 'പുസ്തക പ്രദർശനം',
+    description: 'വിദ്യാർത്ഥികൾക്കായുള്ള പുസ്തക പ്രദർശനവും വിൽപ്പനയും',
+    venue: 'ലൈബ്രറി ഹാൾ',
+    time: '10.00 AM',
+    image: '/images/programme-01.jpg',
+  },
+];
